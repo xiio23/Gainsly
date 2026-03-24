@@ -1,29 +1,37 @@
-# 🪙 Gainsly
+## Getting Started
 
-**The most minimal and elegant crypto profit calculator for modern traders.** Gainsly adalah kalkulator profit crypto minimalis yang membantu Anda menghitung potensi keuntungan dengan konversi otomatis ke Rupiah. Built for clarity and speed.
+First, run the development server:
 
----
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## ✨ Fitur Utama
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-* **📊 Kalkulator Profit Minimalis:** Hitung ROI dan profit bersih tanpa ribet dengan antarmuka yang bersih.
-* **🇮🇩 Konversi Otomatis Rupiah:** Lupakan kalkulator manual, semua hasil langsung dikonversi ke kurs IDR terkini.
-* **⚡ Harga Real-time:** Data akurat yang diambil langsung dari exchange untuk presisi perhitungan.
-* **🌙 Dark Mode Elegant:** Didesain dengan tema gelap premium untuk kenyamanan mata saat analisis malam hari.
-* **📱 24/7 Access:** Analisis pasar dan hitung potensi cuan kapan saja, di mana saja.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-## 🛠️ Tech Stack
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-Proyek ini dibangun dengan teknologi modern untuk memastikan performa yang cepat:
+## Learn More
 
-* **Framework:** [Next.js](https://nextjs.org/) (App Router)
-* **Language:** [TypeScript](https://www.typescriptlang.org/)
-* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-* **State Management:** [Prisma](https://www.prisma.io/) (Jika menggunakan database)
-* **Icons:** Lucide React
+To learn more about Next.js, take a look at the following resources:
 
-## 🚀 Cara Menjalankan di Lokal
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-1. **Clone repositori:**
-   ```bash
-   git clone [https://github.com/xiio23/Gainsly.git](https://github.com/xiio23/Gainsly.git)
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# Gainsly
+>>>>>>> 2829127717653f85b27165e302ad817116a7aefa
